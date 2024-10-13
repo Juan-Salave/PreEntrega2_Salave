@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "nombre": "Naranja",
+        "cantidad": 0,
+        "category" : "fruta",
+        "descripcion": "Importadas de Valencia España Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 2000.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUsgs-Wo_G1SxPek5OMvG0jNJBplb-O-gfw&s",
+        "stock": 1000
+    },
+    {
+        "id": 2,
+        "nombre": "Arandanos",
+        "cantidad": 0,
+        "category" : "fruta",
+        "descripcion": "Importados de Estados Unidos Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 1200.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPRNUrVlj2QWKMn9rZUZyBsMVaxK3VOO3jg&s",
+        "stock": 200
+        
+    },
+    {
+        "id": 3,
+        "nombre": "Banana",
+        "cantidad": 0,
+        "category" : "fruta",
+        "descripcion": "Importados de Quito - Ecuador Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 3500.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_7MDm1RBwZdHpCXXY2zFgt82Mfrh62Tsxg&s",
+        "stock": 200
+    },
+    {
+        "id": 4,
+        "nombre": "Manzana",
+        "cantidad": 0,
+        "category" : "fruta",
+        "descripcion": "Importadas de China. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 5500.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BOcFMWvw3fINWf7CqAYcmrFm3K7CHeJHqw&s",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "nombre": "Mango",
+        "cantidad": 0,
+        "category" : "fruta",
+        "descripcion": "Importado de la India. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 3000.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNssIcXP1Q1kXJGpFPTx5CIR-9JFc4JupAHw&s",
+        "stock": 40
+    },
+    {
+        "id": 6,
+        "nombre": "Frutilla",
+        "cantidad": 0,
+        "category" : "fruta",
+        "descripcion": "Importadas de la Turquía. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 6000.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xf4a_TNYi3D8zRTkkWFf3BQMtlAYsM8o_g&s",
+        "stock": 300
+    },
+    {
+        "id": 7,
+        "nombre": "Cebolla",
+        "cantidad": 0,
+        "category" : "vegetales",
+        "descripcion": "Importadas de Veracruz - Mexico. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 5000.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKuOjspvEcxp88guacHodZ5a8-he3cwgIfxg&s",
+        "stock": 90
+    },
+    {
+        "id": 8,
+        "nombre": "Lechuga",
+        "cantidad": 0,
+        "category" : "vegetales",
+        "descripcion": "Importada desde China. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 8500.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbS-qqYTcRJSojS7EBmF_oBn9YudfGg3f6hg&s",
+        "stock": 90
+    },
+    {
+        "id": 9,
+        "nombre": "Pepino",
+        "cantidad": 0,
+        "category" : "vegetales",
+        "descripcion": "Importados desde Nueva Zelanda. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 4200.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlk9at6g-t9QDRPUjVYYI8CDdZp-U73Q38lw&s",
+        "stock": 120
+    },
+    {
+        "id": 10,
+        "nombre": "Repollo",
+        "cantidad": 0,
+        "category" : "vegetales",
+        "descripcion": "Importadas desde China. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 1000.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFUS9uG5yutHWsy-2gKJSj8FyZ_S63XsKlw&s",
+        "stock": 250
+    },
+    {
+        "id": 11,
+        "nombre": "Papa",
+        "cantidad": 0,
+        "category" : "vegetales",
+        "descripcion": "Importado desde Zacateca - Mexico. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 5500.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkwfcGnw21lTlGOyNE_yPD5c9az8xClvFUrA&s",
+        "stock": 160
+    },
+    {
+        "id": 12,
+        "nombre": "Tomate",
+        "cantidad": 0,
+        "category" : "vegetales",
+        "descripcion": "Importado desde Hokkaido - Japón. Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis ipsa quod voluptate.",
+        "precio": 4500.00,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHBts4_WSVNPTYZV_zmSXqP5ugT1NZNtcfA&s",
+        "stock": 30
+    }
+]
